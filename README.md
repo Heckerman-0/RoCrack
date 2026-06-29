@@ -1,7 +1,7 @@
 # RoCrack ⛏️ Roblox Password Cracker
 This Python script automates the process of brute-forcing passwords against a specified Roblox account endpoint using an external wordlist attack. It is designed to efficiently test dictionary passwords until a valid login combination is found.
 
-**License:** Public Domain 
+**License:** Public Domain (No explicit license file needed!)
 
 ---
 
@@ -18,9 +18,9 @@ You must have Python 3.x installed on your system.
 ### Installation Steps
 This script relies on several external libraries. Install them using pip:
 
-```bash
+
 pip install requests tqdm
-File Structure
+ File Structure
 Your project directory should be structured exactly as follows:
 
 /RoCrack
@@ -65,4 +65,3 @@ Issue: The script runs very slowly, or sometimes fails intermittently during hea
 
 ✨ Get Started
 Make sure your wordlist is ready, update the username, and run the script! Good luck cracking those passwords!
-
