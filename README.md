@@ -13,7 +13,7 @@ This Python script automates the process of brute-forcing passwords against a sp
 
 ## 🛠️ Setup &amp;amp;Installation
 ### Prerequisites
-You must have Python 3.x installed on your system.
+You must have Python installed on your system.
 
 ### Installation Steps
 This script relies on several external libraries. Install them using pip:
